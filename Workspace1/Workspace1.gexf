@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-05-15">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="splitter_z_value" title="Splitter Z-Level" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="London">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-333.96075" y="400.83478"></viz:position>
+        <viz:color r="255" g="102" b="51"></viz:color>
+      </node>
+      <node id="1" label="Avignon">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-679.4086" y="430.40768"></viz:position>
+        <viz:color r="255" g="102" b="51"></viz:color>
+      </node>
+      <node id="2" label="Frankfurt">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-832.44135" y="276.4091"></viz:position>
+        <viz:color r="255" g="102" b="51"></viz:color>
+      </node>
+      <node id="3" label="Francis Hsu">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="117.578575" y="356.3995"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="4" label="David Hall">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="488.15686" y="333.096"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="5" label="Malcom Gaskill">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1066.8904" y="-753.4238"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="6" label="Mary Douglas">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="311.0631" y="54.46788"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="7" label="Mercia Eliade ">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="603.50165" y="360.3159"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="8" label="William Riddell">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-541.7478" y="402.80963"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="9" label="Lucy Mair">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-42.19732" y="381.92508"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="10" label="Johnathon Pearl">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1154.6381" y="900.6065"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="11" label="Edward Monter">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="599.74554" y="638.84875"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="12" label="Nachman Ben Yehuda">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="215.52861" y="624.1321"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="13" label="Wm. Bradford Smith">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1121.8629" y="1492.3242"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="14" label="Thomas Schoeneman">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="287.5197" y="-15.388272"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="15" label="Deborah Willis">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="224.96408" y="566.6902"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="16" label="H.C. Erik Midelfort">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1484.8389" y="-279.24338"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="17" label="Rodney Stark">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-19.903856" y="1062.7681"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="18" label="Bengt Ankarloo">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="835.9645" y="660.71906"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="19" label="Stuart Clark">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="809.3966" y="730.8786"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="20" label="Alan Macfarlane">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="261.25714" y="320.06958"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="21" label="Norman Cohn">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="673.3229" y="167.01897"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="22" label="Rationalist">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="473.4006" y="552.0101"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="23" label="Romanticist">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="459.62827" y="613.7087"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="24" label="Interdisciplinary">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="288.6886" y="398.7475"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="25" label="Henry Lea">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="706.83124" y="239.12375"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="27" label="Clergy">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-855.3801" y="659.24994"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="28" label="Control">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="96.547424" y="1283.9452"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="29" label="Anthropology">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="347.89423" y="364.53043"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="30" label="Sociology">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="156.21878" y="884.8539"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="31" label="History">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="356.8771" y="515.8461"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="32" label="Discipline">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="210.60681" y="693.2635"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="33" label="Preliterate">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-71.08845" y="289.18484"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="34" label="Learned">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-13.463604" y="769.38525"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="35" label="Magic">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-35.99632" y="207.85536"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="36" label="Keith Thomas">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="258.81354" y="450.39984"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="37" label="Social Anxiety">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="124.00231" y="518.05634"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="38" label="Elite">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="41.545406" y="198.29497"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="39" label="Peasant">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-2.4478521" y="551.9477"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="40" label="Hugh Trevor Roper">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1157.2333" y="-955.0098"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="43" label="Skepticism">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-892.1216" y="-306.41388"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="44" label="Catholocism">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1166.743" y="1110.0139"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="45" label="Protestant">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1231.5377" y="1166.2095"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="46" label="Secular">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-355.49652" y="1290.158"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="47" label="Law">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-937.7997" y="-460.3615"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="48" label="Canon Law">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-903.42004" y="967.9093"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="49" label="Common Law">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-817.09314" y="-144.72351"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="50" label="Cosmology">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1024.0908" y="-345.321"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="51" label="Leicester">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1175.1824" y="-493.22052"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="52" label="Witchcraft">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="487.2966" y="84.54915"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="53" label="Leprosy">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="151.05104" y="-215.16713"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="54" label="Immorality">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-61.98825" y="-216.47261"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="55" label="Disease">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="54.965813" y="-373.17377"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="56" label="Accusation">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-257.92764" y="40.515392"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="57" label="Central">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1052.3641" y="-633.53015"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="58" label="Local">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-955.06726" y="-672.5749"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="59" label="Inquisition">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-830.54596" y="840.59906"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="60" label="Indo-Tibetan Magicians">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1006.3328" y="57.67566"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="61" label="Margaret Murray">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="744.5858" y="507.23627"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="62" label="Belief">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-955.20044" y="1206.6534"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="63" label="Carlo Ginzburg">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="271.62012" y="812.4784"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="64" label="Benandanti">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="459.01822" y="1013.7603"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="65" label="Torture">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-145.67078" y="639.1832"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="66" label="Conformity">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="386.37347" y="1056.0471"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="67" label="Accusations">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1187.646" y="1489.1976"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="68" label="Orgy">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="854.1294" y="353.87292"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="69" label="Infanticide">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="318.94305" y="295.41827"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="70" label="Ngadju Dajuks">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1052.3661" y="291.12564"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="71" label="Ritual">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1252.4597" y="171.41328"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="72" label="Prosecution">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-217.83252" y="503.6826"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="73" label="Heresy">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1287.1631" y="1407.8606"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="74" label="Jurisdiction">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-657.08453" y="251.18607"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="75" label="Characteristics">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="661.0749" y="-96.139984"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="76" label="Europe">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-439.02396" y="375.0443"></viz:position>
+        <viz:color r="255" g="102" b="51"></viz:color>
+      </node>
+      <node id="77" label="Africa">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-168.31847" y="383.13293"></viz:position>
+        <viz:color r="255" g="102" b="51"></viz:color>
+      </node>
+      <node id="78" label="Posession">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-431.7889" y="471.99756"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="79" label="France">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-877.2536" y="594.3298"></viz:position>
+        <viz:color r="255" g="102" b="51"></viz:color>
+      </node>
+      <node id="80" label="Exorcism">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1251.132" y="648.24725"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="81" label="Nicole Aubrey">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1421.827" y="535.53314"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="82" label="Marthe Brossier">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1571.3044" y="562.8985"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="83" label="Fraud">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1792.7557" y="509.583"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="84" label="Conflict">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-826.45685" y="1397.656"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="85" label="England">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="32.65055" y="421.89334"></viz:position>
+        <viz:color r="255" g="102" b="51"></viz:color>
+      </node>
+      <node id="86" label="Maleficia">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="114.646965" y="226.73286"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="87" label="Leadership">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1426.1354" y="906.5954"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="88" label="Stability">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1668.0813" y="964.66003"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="89" label="Henry of Navarre">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1276.3689" y="783.9904"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="90" label="Resolution">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1504.0632" y="831.86066"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="91" label="Bitter">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1515.9865" y="763.89844"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="92" label="Demonological Literature">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1474.46" y="705.65656"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="93" label="Religious Wars">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1238.3569" y="1037.9326"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="94" label="Soldan v Michelet">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="773.9605" y="797.31537"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="95" label="Caro Baroja">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="981.85736" y="769.27313"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="96" label="Mentality">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1198.6824" y="845.08093"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="97" label="Learned v Peasant">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1413.7568" y="918.79395"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="98" label="Familial structure">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="394.5908" y="768.0613"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="99" label="Distinctive boundaries">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="380.14572" y="840.6358"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="100" label="Challenge notions of religious bigotry">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1471.5211" y="1069.36"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="101" label="Mandrou - unruly masses to heel">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-980.69006" y="1425.9429"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="102" label="Parlement - independent">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1336.0161" y="976.7599"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="103" label="demonologists devoted to their faith">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1682.6603" y="1171.8824"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="104" label="Scapegots">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="10.523299" y="-71.85747"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="105" label="Social Change">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="576.7742" y="-514.93634"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="106" label="Witch Hunts">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="455.94" y="-309.38705"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="107" label="Friedrich Forner">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1102.943" y="1256.5145"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="108" label="Catholic Reformation">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1258.8861" y="1464.63"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="109" label="Calvinists">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1274.6724" y="1324.2297"></viz:position>
+        <viz:color r="255" g="102" b="51"></viz:color>
+      </node>
+      <node id="111" label="Kleinian Theory">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="60.997486" y="652.0313"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="112" label="Feminist definition of Witch">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="21.411634" y="856.09845"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="113" label="Emile Durkheim">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-13.448906" y="1308.539"></viz:position>
+        <viz:color r="102" g="255" b="102"></viz:color>
+      </node>
+      <node id="114" label="Religion seperate from sociocultural factors">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-171.60185" y="1255.2054"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="115" label="Academia">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-679.8692" y="1326.8108"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="116" label="Lies">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-576.9371" y="1435.382"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="117" label="Continent vs England">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1638.7286" y="-434.4731"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="118" label="Germany">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-831.4735" y="147.01767"></viz:position>
+        <viz:color r="255" g="102" b="51"></viz:color>
+      </node>
+      <node id="119" label="Bamberg">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1179.5496" y="-78.89643"></viz:position>
+        <viz:color r="255" g="102" b="51"></viz:color>
+      </node>
+      <node id="120" label="Lack of confidence led to magistrates doubting the judicial process. ">
+        <attvalues>
+          <attvalue for="splitter_z_value" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1685.8226" y="-362.55447"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="22" target="23" type="undirected" label="conflicting approaches to historical research"></edge>
+      <edge id="1" source="32" target="24" type="directed"></edge>
+      <edge id="2" source="32" target="29" type="directed"></edge>
+      <edge id="3" source="32" target="30" type="directed"></edge>
+      <edge id="4" source="32" target="31" type="directed"></edge>
+      <edge id="5" source="31" target="22" type="directed"></edge>
+      <edge id="6" source="31" target="23" type="directed"></edge>
+      <edge id="7" source="11" target="22" type="directed"></edge>
+      <edge id="8" source="11" target="23" type="directed"></edge>
+      <edge id="9" source="24" target="11" type="directed"></edge>
+      <edge id="10" source="24" target="6" type="directed"></edge>
+      <edge id="11" source="24" target="9" type="directed"></edge>
+      <edge id="12" source="24" target="12" type="directed"></edge>
+      <edge id="13" source="24" target="14" type="directed"></edge>
+      <edge id="14" source="24" target="20" type="directed"></edge>
+      <edge id="15" source="24" target="36" type="directed"></edge>
+      <edge id="16" source="107" target="67" type="undirected"></edge>
+      <edge id="17" source="107" target="73" type="undirected"></edge>
+      <edge id="18" source="3" target="24" type="directed"></edge>
+      <edge id="19" source="3" target="29" type="directed"></edge>
+      <edge id="20" source="3" target="77" type="directed" label="&lt;null value&gt;"></edge>
+      <edge id="21" source="4" target="20" type="directed"></edge>
+      <edge id="22" source="4" target="21" type="directed"></edge>
+      <edge id="23" source="4" target="22" type="directed"></edge>
+      <edge id="24" source="4" target="24" type="directed"></edge>
+      <edge id="25" source="4" target="25" type="directed"></edge>
+      <edge id="26" source="4" target="36" type="directed"></edge>
+      <edge id="27" source="85" target="20" type="directed"></edge>
+      <edge id="28" source="85" target="24" type="directed"></edge>
+      <edge id="29" source="85" target="29" type="directed"></edge>
+      <edge id="30" source="85" target="31" type="directed"></edge>
+      <edge id="31" source="85" target="33" type="directed"></edge>
+      <edge id="32" source="85" target="34" type="directed"></edge>
+      <edge id="33" source="85" target="35" type="directed"></edge>
+      <edge id="34" source="85" target="36" type="directed"></edge>
+      <edge id="35" source="85" target="37" type="directed"></edge>
+      <edge id="36" source="85" target="38" type="directed"></edge>
+      <edge id="37" source="85" target="39" type="directed" label="The accused were primarily peasants in engand"></edge>
+      <edge id="38" source="76" target="79" type="directed"></edge>
+      <edge id="39" source="76" target="85" type="directed"></edge>
+      <edge id="40" source="76" target="118" type="directed"></edge>
+      <edge id="41" source="70" target="71" type="directed" label="Return to precosmic/primal times"></edge>
+      <edge id="42" source="63" target="64" type="directed" label="Group of Italian natives that had unique confessions"></edge>
+      <edge id="43" source="63" target="65" type="directed" label="The Benandanti were subjected to torture"></edge>
+      <edge id="44" source="63" target="66" type="directed" label="After a period of 6 months their confessions conformed to match the inquisitors expectations"></edge>
+      <edge id="45" source="5" target="40" type="directed"></edge>
+      <edge id="46" source="5" target="47" type="directed"></edge>
+      <edge id="47" source="49" target="43" type="directed"></edge>
+      <edge id="48" source="49" target="47" type="directed"></edge>
+      <edge id="49" source="49" target="50" type="directed"></edge>
+      <edge id="50" source="50" target="51" type="directed"></edge>
+      <edge id="51" source="6" target="52" type="directed"></edge>
+      <edge id="52" source="6" target="53" type="directed"></edge>
+      <edge id="53" source="53" target="54" type="directed"></edge>
+      <edge id="54" source="53" target="55" type="directed"></edge>
+      <edge id="55" source="55" target="54" type="directed"></edge>
+      <edge id="56" source="56" target="54" type="directed"></edge>
+      <edge id="57" source="56" target="104" type="directed"></edge>
+      <edge id="58" source="7" target="24" type="directed"></edge>
+      <edge id="59" source="7" target="29" type="directed"></edge>
+      <edge id="60" source="7" target="31" type="directed"></edge>
+      <edge id="61" source="7" target="60" type="directed"></edge>
+      <edge id="62" source="7" target="61" type="directed"></edge>
+      <edge id="63" source="7" target="68" type="directed"></edge>
+      <edge id="64" source="7" target="69" type="directed"></edge>
+      <edge id="65" source="7" target="70" type="directed"></edge>
+      <edge id="66" source="8" target="27" type="directed"></edge>
+      <edge id="67" source="8" target="49" type="directed"></edge>
+      <edge id="68" source="8" target="56" type="directed"></edge>
+      <edge id="69" source="8" target="59" type="directed"></edge>
+      <edge id="70" source="8" target="65" type="directed"></edge>
+      <edge id="71" source="8" target="72" type="directed"></edge>
+      <edge id="72" source="8" target="74" type="directed"></edge>
+      <edge id="73" source="9" target="24" type="directed"></edge>
+      <edge id="74" source="9" target="33" type="directed"></edge>
+      <edge id="75" source="9" target="69" type="directed"></edge>
+      <edge id="76" source="9" target="76" type="directed"></edge>
+      <edge id="77" source="9" target="77" type="directed"></edge>
+      <edge id="78" source="9" target="78" type="directed"></edge>
+      <edge id="79" source="78" target="76" type="directed"></edge>
+      <edge id="80" source="78" target="77" type="directed"></edge>
+      <edge id="81" source="79" target="78" type="directed"></edge>
+      <edge id="82" source="80" target="79" type="directed"></edge>
+      <edge id="83" source="80" target="81" type="directed"></edge>
+      <edge id="84" source="80" target="82" type="directed"></edge>
+      <edge id="85" source="83" target="82" type="directed"></edge>
+      <edge id="86" source="10" target="27" type="directed"></edge>
+      <edge id="87" source="10" target="44" type="directed"></edge>
+      <edge id="88" source="10" target="45" type="directed"></edge>
+      <edge id="89" source="10" target="79" type="directed"></edge>
+      <edge id="90" source="10" target="80" type="directed"></edge>
+      <edge id="91" source="10" target="87" type="directed"></edge>
+      <edge id="92" source="10" target="89" type="directed"></edge>
+      <edge id="93" source="89" target="79" type="directed"></edge>
+      <edge id="94" source="89" target="87" type="directed"></edge>
+      <edge id="95" source="89" target="90" type="directed"></edge>
+      <edge id="96" source="89" target="91" type="directed"></edge>
+      <edge id="97" source="89" target="92" type="directed"></edge>
+      <edge id="98" source="89" target="80" type="undirected"></edge>
+      <edge id="100" source="89" target="93" type="undirected"></edge>
+      <edge id="101" source="62" target="10" type="directed" label="Rejects notion that academic writers portraying demonologists as bigots is valid"></edge>
+      <edge id="102" source="62" target="101" type="directed"></edge>
+      <edge id="103" source="62" target="115" type="directed"></edge>
+      <edge id="104" source="11" target="22" type="directed"></edge>
+      <edge id="105" source="11" target="23" type="directed"></edge>
+      <edge id="106" source="11" target="24" type="directed"></edge>
+      <edge id="107" source="11" target="61" type="directed"></edge>
+      <edge id="108" source="11" target="63" type="directed"></edge>
+      <edge id="109" source="11" target="94" type="directed"></edge>
+      <edge id="110" source="11" target="95" type="directed"></edge>
+      <edge id="111" source="12" target="22" type="directed"></edge>
+      <edge id="112" source="12" target="24" type="directed"></edge>
+      <edge id="113" source="12" target="30" type="directed"></edge>
+      <edge id="114" source="12" target="98" type="directed"></edge>
+      <edge id="115" source="12" target="99" type="directed"></edge>
+      <edge id="116" source="10" target="100" type="directed"></edge>
+      <edge id="117" source="95" target="96" type="directed"></edge>
+      <edge id="118" source="100" target="103" type="directed"></edge>
+      <edge id="119" source="14" target="104" type="directed"></edge>
+      <edge id="120" source="14" target="106" type="directed"></edge>
+      <edge id="121" source="105" target="106" type="directed" label="Witch Hunts occur in times of social change"></edge>
+      <edge id="122" source="1" target="0" type="undirected"></edge>
+      <edge id="123" source="1" target="2" type="undirected"></edge>
+      <edge id="124" source="0" target="85" type="directed"></edge>
+      <edge id="125" source="1" target="79" type="directed"></edge>
+      <edge id="126" source="2" target="118" type="directed"></edge>
+      <edge id="127" source="107" target="13" type="directed"></edge>
+      <edge id="128" source="107" target="44" type="directed"></edge>
+      <edge id="129" source="107" target="45" type="directed"></edge>
+      <edge id="130" source="107" target="59" type="directed"></edge>
+      <edge id="131" source="107" target="84" type="directed"></edge>
+      <edge id="132" source="107" target="93" type="directed"></edge>
+      <edge id="133" source="107" target="108" type="directed"></edge>
+      <edge id="134" source="107" target="109" type="directed"></edge>
+      <edge id="135" source="45" target="109" type="directed"></edge>
+      <edge id="136" source="73" target="109" type="directed"></edge>
+      <edge id="137" source="15" target="23" type="directed"></edge>
+      <edge id="138" source="15" target="36" type="directed"></edge>
+      <edge id="139" source="15" target="37" type="directed"></edge>
+      <edge id="140" source="15" target="39" type="directed"></edge>
+      <edge id="141" source="111" target="15" type="directed"></edge>
+      <edge id="142" source="111" target="39" type="directed"></edge>
+      <edge id="143" source="111" target="85" type="directed"></edge>
+      <edge id="144" source="111" target="112" type="directed"></edge>
+      <edge id="145" source="17" target="28" type="directed"></edge>
+      <edge id="146" source="17" target="30" type="directed"></edge>
+      <edge id="147" source="17" target="32" type="directed"></edge>
+      <edge id="148" source="17" target="34" type="directed"></edge>
+      <edge id="149" source="17" target="113" type="directed"></edge>
+      <edge id="150" source="17" target="114" type="directed"></edge>
+      <edge id="151" source="46" target="17" type="directed"></edge>
+      <edge id="152" source="46" target="114" type="directed"></edge>
+      <edge id="153" source="46" target="115" type="directed"></edge>
+      <edge id="154" source="46" target="116" type="directed" label="Catholics used science to get closer to God"></edge>
+      <edge id="155" source="84" target="115" type="directed" label="Huxley, Marx and others perpetuate conflict between Science and Religion yet none exists. Argued that Newton and Einstein had strong religious beliefs"></edge>
+      <edge id="156" source="84" target="116" type="directed" label="The learned knew the Earth was round, refuting notions of Columbus Defiance"></edge>
+      <edge id="157" source="16" target="119" type="directed"></edge>
+      <edge id="158" source="16" target="120" type="directed"></edge>
+      <edge id="159" source="119" target="118" type="directed"></edge>
+      <edge id="160" source="96" target="95" type="directed"></edge>
+      <edge id="161" source="96" target="97" type="directed"></edge>
+      <edge id="162" source="11" target="18" type="undirected"></edge>
+      <edge id="163" source="11" target="19" type="undirected"></edge>
+      <edge id="164" source="10" target="102" type="undirected"></edge>
+      <edge id="165" source="52" target="29" type="undirected"></edge>
+      <edge id="166" source="52" target="75" type="undirected"></edge>
+      <edge id="167" source="47" target="49" type="directed"></edge>
+      <edge id="168" source="47" target="57" type="directed"></edge>
+      <edge id="169" source="47" target="58" type="directed"></edge>
+      <edge id="170" source="48" target="59" type="directed"></edge>
+      <edge id="171" source="16" target="117" type="directed"></edge>
+      <edge id="172" source="72" target="8" type="directed"></edge>
+      <edge id="173" source="72" target="12" type="directed"></edge>
+      <edge id="174" source="72" target="39" type="directed"></edge>
+      <edge id="175" source="87" target="88" type="directed"></edge>
+      <edge id="176" source="85" target="86" type="directed"></edge>
+    </edges>
+  </graph>
+</gexf>
